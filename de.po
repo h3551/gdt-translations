@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: support@greenheartgames.com\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2017-06-22 05:38+0000\n"
-"Last-Translator: Patrick Klug <patrick.klug@gmail.com>\n"
+"Last-Translator: Daniel Heslop <dcheslop@gmail.com>\n"
 "Language-Team: German "
 "<http://http://ghgtranslate.42dev.net/projects/gdt/main/de/>\n"
 "Language: de\n"
@@ -32,7 +32,7 @@ msgstr "100K-Engine"
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
-msgstr "Investiere über 100K in eine neue Spiel-Engine."
+msgstr "Investiere über einhunderttausend in eine neue Spiel-Engine."
 
 #. achievement title
 msgid "500K Engine"
@@ -40,7 +40,7 @@ msgstr "500K-Spiel-Engine"
 
 #. achievement
 msgid "Invest over 500K in a new game engine."
-msgstr "Investiere über 500K in eine neue Spiel-Engine."
+msgstr "Investiere über fünfhunderttausend in eine neue Spiel-Engine."
 
 #. achievement title
 msgid "1M Engine"
@@ -57,7 +57,7 @@ msgstr "Gold"
 #. achievement
 msgid "Sell half a million copies of a game without the help of a publisher."
 msgstr ""
-"Verkaufe, ohne die Hilfe eines Publishers, eine halbe Million Exemplare "
+"Verkaufe ohne die Hilfe eines Publishers, eine halbe Million Exemplare "
 "eines Spiels."
 
 #. achievement title
@@ -67,7 +67,7 @@ msgstr "Platin"
 #. achievement
 msgid "Sell one million copies of a game without the help of a publisher."
 msgstr ""
-"Verkaufe, ohne die Hilfe eines Publishers, eine Million Exemplare eines "
+"Verkaufe ohne die Hilfe eines Publishers, eine Million Exemplare eines "
 "Spiels."
 
 #. achievement title
@@ -77,7 +77,7 @@ msgstr "Diamant"
 #. achievement
 msgid "Sell ten million copies of a game without the help of a publisher."
 msgstr ""
-"Verkaufe, ohne die Hilfe eines Publishers, zehn Millionen Exemplare eines "
+"Verkaufe ohne die Hilfe eines Publishers, zehn Millionen Exemplare eines "
 "Spiels."
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
@@ -7472,7 +7472,7 @@ msgid "Anyway, you really should release more updates for it."
 msgstr "Wie dem auch sei. Du solltest mehr Updates veröffentlichen."
 
 msgid "Looking forward to the sequel."
-msgstr "Ich freue mich schon auf die Fortsetzung."
+msgstr "Ich freue mich auf die Fortsetzung."
 
 msgid "You should give the game away for free."
 msgstr "Du solltest das Spiel kostenlos anbieten."
@@ -7512,15 +7512,15 @@ msgstr "aber der Kopierschutz des Spiels lässt ständig mein System abstürzen.
 
 #. piracy fragment
 msgid "but I hate how inconvenient the copy protection is."
-msgstr "aber ich hasse den unnötigen Kopierschutz."
+msgstr "Allerdings hasse ich den unnötigen Schutz vor Kopie."
 
 msgid "Can you please not use it in the future?"
-msgstr "Könntest du ihn bitte in Zukunft weglassen?"
+msgstr "Könnt ihr bitte so etwas künftig nicht benutzen?"
 
 msgid ""
 "A friend of mine pirated the game and he doesn't have any issues! This "
 "isn't fair!"
-msgstr "Ein Freund von mir hat das Spiel geklaut und hat keine Probleme! Das ist unfair!"
+msgstr "Ein Freund von mir hat das Spiel gerippt und keine Probleme! Das ist doch unfair!"
 
 msgid "Thanks for your understanding."
 msgstr "Vielen Dank für dein Verständnis!"
@@ -7532,12 +7532,12 @@ msgid "I will never buy anything from your company again!"
 msgstr "Ich werde nie wieder etwas von deinem Unternehmen kaufen!"
 
 msgid "I will make sure to warn all of my friends about this."
-msgstr "Ich werde alle meine Freunde davor warnen!"
+msgstr "Ich werde sicherstellen, alle meine Freunde davor zu warnen."
 
 
 
 msgid "Others"
-msgstr "Diverse"
+msgstr "Andere"
 
 msgid ""
 "To stay afloat in pirate mode you can sell part of your company to a "
@@ -7574,7 +7574,7 @@ msgstr "Landwirtschaft"
 
 #. game topic
 msgid "Crime"
-msgstr "Verbrechen"
+msgstr "Krimi"
 
 #. game topic
 msgid "Disasters"
@@ -7594,7 +7594,7 @@ msgstr "Kolonialisierung"
 
 #. game topic
 msgid "Construction"
-msgstr "Bau"
+msgstr "Aufbau"
 
 #. game topic
 msgid "Mythology"
@@ -7606,7 +7606,7 @@ msgstr "Abstrakt"
 
 #. game topic
 msgid "Mad Science"
-msgstr "Mad Science"
+msgstr "Verrükte Wissenschaft"
 
 #. game topic
 msgid "Extreme Sports"
@@ -7679,7 +7679,7 @@ msgid "Sales Reports"
 msgstr "Verkaufsberichte"
 
 msgid "Auto-Popup"
-msgstr "Autom. Pop-ups"
+msgstr "Automatische Pop-ups"
 
 msgid "Message Queue"
 msgstr "Nachrichtenliste"
